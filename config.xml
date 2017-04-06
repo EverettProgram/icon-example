@@ -6,14 +6,14 @@
         id        = "com.phonegap.helloworld"
         version   = "1.0.0">
 
-    <name>Hello World</name>
+    <name>Icon Example</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        This app is just here to demonstrate how to make icons
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author>
+        Everett Program
     </author>
 
     <!--
@@ -132,5 +132,3 @@
     </platform>
 
 </widget>
-Contact GitHub API Training Shop Blog About
-© 2017 GitHub, Inc. Terms Privacy Security Status Help
